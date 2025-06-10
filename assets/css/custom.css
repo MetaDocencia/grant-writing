@@ -1,0 +1,17 @@
+/* assets/css/custom.css */
+body {
+  background-color: #f5f6fa;
+}
+
+a {
+  color: #005F9E; /* azul MD */
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.lesson-title {
+  color: #005F9E;
+}
