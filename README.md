@@ -1,3 +1,3 @@
-## metadocencia-workbench-template-clean
+## Acceso a financiación para iniciativas latinoamericanas
 
-    This is the lesson repository for metadocencia-workbench-template-clean
+Plan de estudios del proyecto “Acceso a financiación para iniciativas latinoamericanas”.
